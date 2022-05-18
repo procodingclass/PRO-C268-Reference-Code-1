@@ -29,7 +29,7 @@ void loop(){
   matrix.print("Hello");
   delay(2000);
   matrix.setTextAlignment(PA_LEFT);
-  matrix.print("Friend");
+  matrix.print("Daisy");
   delay(2000);
 
 }
